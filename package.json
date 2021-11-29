@@ -1,6 +1,6 @@
 {
   "name": "@oakjs/antd-plus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "基于antd pro的一些组件包装和工具类",
   "authors": {
     "name": "laisr",
